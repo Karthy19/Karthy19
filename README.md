@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Karthy19
 - 👀 I’m interested in data analytics and machine language
 - 🌱 I’m currently learning M.Sc data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---> krishkarthy.19@gmail.com
 
 <!---
